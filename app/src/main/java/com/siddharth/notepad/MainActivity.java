@@ -1,4 +1,4 @@
-package com.apkglobal.notepad;
+package com.siddharth.notepad;
 
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;

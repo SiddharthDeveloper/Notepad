@@ -1,4 +1,4 @@
-package com.apkglobal.notepad;
+package com.siddharth.notepad;
 
 import org.junit.Test;
 

@@ -1,4 +1,4 @@
-package com.apkglobal.notepad;
+package com.siddharth.notepad;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
